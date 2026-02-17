@@ -7,7 +7,7 @@ This project demonstrates discrete-event simulation using **SimPy** to model a m
 **Student Name**: Abhimanyu Thakur
 **Roll Number**: 102303738
 **Assignment**: PAS Assignment - Simulator Exploration & ML Model Comparison  
-**Date**: January 2026  
+**Date**: February 2026  
 **Simulator**: SimPy 4.1.1 (Discrete-Event Simulation Framework)
 
 ## Objectives
